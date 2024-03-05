@@ -1,6 +1,6 @@
 {
   "name": "tea-bepbop",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tea testnet",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "dependencies": {
     "try-tea-test": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "tea-hyea": "1.0.1"
   },
   "author": "",
   "license": "ISC",
